@@ -1,6 +1,6 @@
 console.log("Up and running!");
 
-let cards = ["queen", "queen", "queen", "queen"];
+let cards = ["queen", "queen", "king", "king"];
 let cardsInPlay = [];
 let cardOne = cards[0];
 
